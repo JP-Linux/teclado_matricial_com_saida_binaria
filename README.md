@@ -40,12 +40,9 @@ Projeto Arduino que converte pressionamentos de teclas em sinais binários de 4 
 - `Teclado Matricial com Saída Binária.pdf`: Diagrama completo do circuito
 - `projeto_01.png`: Layout de referência do teclado
 
-![Diagrama](img_esquema/Teclado Matricial com Saída Binária.pdf)
-
 ## ✍️ Autor
 **Jorge Paulo Santos**  
 [![GitHub](https://img.shields.io/badge/GitHub-JP--Linux-blue)](https://github.com/JP-Linux)  
 ✉️ jorgepsan7@gmail.com
 
-```
 
