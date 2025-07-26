@@ -1,8 +1,13 @@
 # KeyBin - Teclado Matricial com Saída Binária
 
+Projeto Arduino que converte pressionamentos de teclas em sinais binários de 4 bits, ideal para controle de displays digitais ou interfaces simples.
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://jp-linux.github.io)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)](https://www.arduino.cc)
+
 ![Exemplo de teclado](img_esquema/projeto_01.png)
 
-Projeto Arduino que converte pressionamentos de teclas em sinais binários de 4 bits, ideal para controle de displays digitais ou interfaces simples.
 
 ## 🔧 Funcionalidades
 - Leitura de teclado matricial 4x4
