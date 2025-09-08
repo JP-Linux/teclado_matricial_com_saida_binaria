@@ -50,4 +50,11 @@ Projeto Arduino que converte pressionamentos de teclas em sinais binários de 4 
 [![GitHub](https://img.shields.io/badge/GitHub-JP--Linux-blue)](https://github.com/JP-Linux)  
 ✉️ jorgepsan7@gmail.com
 
+## 💝 Suporte ao Projeto
+
+Se este projeto foi útil para você, considere apoiar meu trabalho através do GitHub Sponsors:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-JP_Linux-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/JP-Linux)
+
+
 
